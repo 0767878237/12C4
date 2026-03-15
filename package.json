@@ -1,0 +1,11 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "serve .",
+    "build": "echo 'No build step needed'"
+  },
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+}
